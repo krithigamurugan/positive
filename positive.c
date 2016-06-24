@@ -2,7 +2,7 @@
  
 int main()
 {
-    int n;
+    int num;
      
     /* Read number from user */
     printf("Enter any number: ");
