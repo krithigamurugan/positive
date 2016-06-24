@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-char c
+char c;
 int isLV,isUV;
 
     printf("Enter an alphabet: ");
